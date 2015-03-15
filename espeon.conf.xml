@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<espeon>
+	<templateDir>templates</templateDir>
+	<outputDir>output</outputDir>
+	<mysql host="127.0.0.1" db="psx" user="root" pw="" />
+</espeon>
